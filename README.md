@@ -29,8 +29,8 @@ These are in production. Click a screenshot to open the site. The code belongs t
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://creuw-ai.vercel.app"><img src="assets/creuw-ai.webp" alt="CREUW AI"></a>
-<h3><a href="https://creuw-ai.vercel.app">CREUW AI</a></h3>
+<a href="https://creuw.ai"><img src="assets/creuw-ai.webp" alt="CREUW AI"></a>
+<h3><a href="https://creuw.ai">CREUW AI</a></h3>
 Underwriting software for commercial real estate. Upload an offering memorandum and get the rent roll, an NOI/DSCR/IRR model, a deal score and a memo for the investment committee. Every number the AI extracts stays visible and editable, because analysts won't trust a black box.
 <br><sub>Next.js · Supabase · Claude API · Stripe</sub>
 </td>
