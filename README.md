@@ -2,7 +2,7 @@
 
 Full-stack engineer from Lahore. I build web products with Next.js, TypeScript and Node, and lately a lot of my work has been about putting AI into real business tools rather than demos.
 
-I've been doing this professionally for 3+ years, mostly for clients in the US, the Gulf and Africa. I usually own a project from the database schema to the last screen, plus payments, deployment and the docs that let the next developer pick it up.
+I've been doing this professionally for 4+ years, mostly for clients in the US, the Gulf and Africa. I usually own a project from the database schema to the last screen, plus payments, deployment and the docs that let the next developer pick it up.
 
 I also run SOLOGEN, my software company, where we build web and mobile products, AI features and computer-vision systems for clients. The projects below are a mix of work from my full-time roles and work through SOLOGEN.
 
